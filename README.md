@@ -16,7 +16,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" /> irrisorr </a>
+<a target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="40" width="50" /> irrisorr </a>
 </p>
 <p align="left">
 <a href="https://t.me/irrisorr" target="blank"><img align="center" src="https://github.com/Irrisorr/irrisorr/blob/main/img/telegram_text.png" alt="irrisorr" /></a>
