@@ -69,7 +69,10 @@ Belarusian - Native.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heorhi-zakharkevich)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
+---
 
-<p> <img align="left" src="./profile-3d-contrib/profile-green-animate.svg" width='650' alt="Contribs" />
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='300' </p>
+<img src="./profile-3d-contrib/profile-green-animate.svg" alt="Contribs" />
 
+<img src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='300'>
+
+</div>
