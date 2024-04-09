@@ -22,12 +22,13 @@
 3. Russian - Native;
 4. Belarusian - Native.
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=irrisorr&show_icons=true&title_color=774bdd&locale=en" alt="irrisorr" />
-<img align='center' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200' </p>
-
-
 ### Contacts
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/irrisorr)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://www.facebook.com/easygoga)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/heorhi-zakharkevich)
+
+
+<p> <img align="left" src="./profile-3d-contrib/profile-green-animate.svg" width='650' alt="Contribs" />
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='300' </p>
+
