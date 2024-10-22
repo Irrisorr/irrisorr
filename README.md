@@ -6,9 +6,13 @@
 <h3 align="center">A student of Computer Science at Poznan University of Technology</h3>
 
 <div align = center>
-👨‍💻 I'm into Java, Python app dev, and indie game design, with a focus on AI.
+Aspiring Java Developer with hands-on experience in microservices
+architecture and Spring Boot. Currently completing a Bachelor's degree
+in Computer Science with a focus on software engineering. Passionate
+about learning new technologies and applying them to solve real-world
+problems.
 
-🌱 I’m currently learning **Spring, Node.js**
+🌱 I am currently working on my pet project (Java+Spring boot / typescript) which will help people search for active recreation around the world on Google Maps, allow them to book it and use the information they receive in some way in the future
 
 📫 How to reach me **zakharkevichg@gmail.com**
 
